@@ -1,6 +1,5 @@
 Flask
-numpy
-pandas
-pickle
+Numpy
+Pandas
 scikit-learn
 Gunicorn
